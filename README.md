@@ -1,4 +1,4 @@
-# Event-management
+# University Event Management
 
 # Stakeholder Register
 
