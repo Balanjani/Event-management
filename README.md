@@ -16,3 +16,20 @@ Software developers are typically not considered stakeholders in the traditional
 
 ### Software Testers - Balanjani Kamasani, Tarun Yada:
 Similar to software developers, testers are involved in the project's execution and ensuring the quality of the deliverables. While they may not be stakeholders in the traditional sense, they play a crucial role in project success.
+
+### Students:
+The primary users of the application who will be registering for events and accessing event information.
+
+### Faculty:
+Faculty members who may organize or participate in academic events.
+
+### University Administration:
+Senior officials and decision-makers responsible for approving and overseeing the project.
+Academic and administrative leaders with an interest in effective event management.
+
+### Alumni Associations:
+Alumni representatives who may be involved in organizing or attending events.
+
+### Event Organizers:
+Individuals responsible for planning and coordinating university events.
+Faculty members, student organizations, and administrative staff involved in event planning.
